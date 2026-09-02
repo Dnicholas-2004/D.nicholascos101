@@ -1,12 +1,12 @@
 fn main() {
-    // ---- STEP 1: Quantity sold for each item ----
+   
     let toshiba_qty: f64 = 2.0;
     let mac_qty: f64 = 1.0;
     let hp_qty: f64 = 3.0;
     let dell_qty: f64 = 3.0;
     let acer_qty: f64 = 1.0;
 
-    // ---- STEP 2: Price per unit for each item ----
+  
     let toshiba_price: f64 = 450_000.0;
     let mac_price: f64 = 1_500_000.0;
     let hp_price: f64 = 750_000.0;
